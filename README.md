@@ -1,1 +1,1 @@
-This file is containing a description of the repository
+0x03-shell_variables_expansions readme file
